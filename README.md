@@ -1,11 +1,6 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050816,50:151B3B,100:00D9FF&text=HELLO%20WORLD&fontColor=FFFFFF&fontSize=55&fontAlignY=44&animation=twinkling&stroke=00D9FF&strokeWidth=1" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=65&lines=Hello%2C+stranger.;Welcome+to+my+digital+universe.;I+build+things+that+probably+work.;Scroll+down.+I+dare+you.;%3E+ACCESS+GRANTED_" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=65&lines=Hello.;I+build+things+that+might+work" alt="Typing animation" />
 
 <br>
 
