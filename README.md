@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=65&lines=Hello.;I+build+things+that+might+work" alt="Typing animation" />
-
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=ch1tmdgus&label=PROFILE+VIEWS&color=00b8d9&style=flat-square" />
 
 </div>
