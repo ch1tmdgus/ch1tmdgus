@@ -33,7 +33,6 @@ root@ch1tmdgus:~# echo $STATUS
 
 <br>
 
-### 🐍 EATING MY CONTRIBUTIONS
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ch1tmdgus/ch1tmdgus/output/github-snake-dark.svg" />
@@ -43,25 +42,9 @@ root@ch1tmdgus:~# echo $STATUS
 
 <br>
 
-### 🎮 ARE YOU BORED?
 
-**Stop scrolling. Start playing.**
-
-<a href="https://platane.github.io/snk/">
-  <img src="https://img.shields.io/badge/▶_PLAY_SNAKE-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-<br><br>
-
-*Warning: Productivity may decrease.*
-
-<br>
-
-### ⚡ MY ARSENAL
-
-<img src="https://skillicons.dev/icons?i=py,html,js,php&theme=dark" />
-<img src="https://img.shields.io/badge/SSH-OpenSSH-242938?style=for-the-badge&logo=openssh&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=py,html,js,php&theme=dark" /><br>
+<img src="https://img.shields.io/badge/SSH-OpenSSH-242938?style=for-the-badge&logo=openssh&logoColor=white" /><br>
 <img src="https://komarev.com/ghpvc/?username=ch1tmdgus&label=PROFILE+VIEWS&color=00b8d9&style=flat-square" />
-
 
 </div>
