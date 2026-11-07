@@ -60,15 +60,8 @@ root@ch1tmdgus:~# echo $STATUS
 ### ⚡ MY ARSENAL
 
 <img src="https://skillicons.dev/icons?i=py,html,js,php&theme=dark" />
-
-<br><br>
-
 <img src="https://img.shields.io/badge/SSH-OpenSSH-242938?style=for-the-badge&logo=openssh&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=ch1tmdgus&label=PROFILE+VIEWS&color=00b8d9&style=flat-square" />
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=36BCF7&center=true&width=500&lines=Thanks+for+visiting.;Now+go+build+something+cool.;Connection+terminated._" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:151B3B,100:00D9FF&height=120&section=footer" />
 
 </div>
