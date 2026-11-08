@@ -20,14 +20,13 @@ root@ch1tmdgus:~# echo $STATUS
 
 <img src="https://streak-stats.demolab.com?user=ch1tmdgus&theme=tokyonight&hide_border=true&background=00000000&ring=36BCF7&fire=FF6B9A&currStreakLabel=36BCF7" height="165" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ch1tmdgus&bg_color=00000000&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7&hide_border=true" width="95%" />
 
 <br>
 
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ch1tmdgus/ch1tmdgus/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ch1tmdgus/ch1tmdgus/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/ch1tmdgus/ch1tmdgus/output/github-snake.svg" width="100%" />
 </picture>
 
