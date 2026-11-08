@@ -16,9 +16,6 @@ root@ch1tmdgus:~# echo $STATUS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ch1tmdgus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7&text_color=9BA8C5" height="165" />
-
-
 <br>
 
 
