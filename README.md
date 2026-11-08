@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ch1tmdgus&label=PROFILE+VIEWS&color=00b8d9&style=flat-square" />
-
 </div>
 
 <br>
