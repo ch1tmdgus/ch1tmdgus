@@ -1,20 +1,16 @@
 <div align="center">
 </div>
 
-<br>
-
 ```console
 root@ch1tmdgus:~# whoami
 
-> Developer
-> Curious about everything.
-> Breaking things. Fixing things.
-> Making the impossible possible.
+> Vibe Coding Dev
+> Don't know what I am doing
+> Making the possible quite not impossible.
 
 root@ch1tmdgus:~# echo $STATUS
 
-[+] SYSTEM ONLINE
-[+] CURIOSITY: UNLIMITED
+[+] SYSTEM FXXKED
 [+] SLEEP: NOT FOUND
 ```
 
