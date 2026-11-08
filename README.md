@@ -18,8 +18,6 @@ root@ch1tmdgus:~# echo $STATUS
 
 <img src="https://github-readme-stats.vercel.app/api?username=ch1tmdgus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7&text_color=9BA8C5" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=ch1tmdgus&theme=tokyonight&hide_border=true&background=00000000&ring=36BCF7&fire=FF6B9A&currStreakLabel=36BCF7" height="165" />
-
 
 <br>
 
