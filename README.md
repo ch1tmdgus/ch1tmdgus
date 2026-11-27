@@ -4,13 +4,8 @@
 ```console
 root@ch1tmdgus:~# whoami
 
-> Vibe Coding Dev
-> Don't know what I am doing
-> Making the possible quite not impossible.
-
-root@ch1tmdgus:~# echo $STATUS
-
-I don't know what I am doing
+> Vibe Coding Final Boss
+> I don't know what I am doing
 ```
 
 <div align="center">
