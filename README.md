@@ -10,8 +10,7 @@ root@ch1tmdgus:~# whoami
 
 root@ch1tmdgus:~# echo $STATUS
 
-[+] SYSTEM FXXKED
-[+] SLEEP: NOT FOUND
+I don't know what I am doing
 ```
 
 <div align="center">
