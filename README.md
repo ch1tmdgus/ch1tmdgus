@@ -9,10 +9,7 @@ root@ch1tmdgus:~# whoami
 ```
 
 <div align="center">
-
-<br>
-
-
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ch1tmdgus/ch1tmdgus/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ch1tmdgus/ch1tmdgus/output/github-snake.svg" />
